@@ -10,7 +10,7 @@ class Keyboard {
     for (let i = 0; i < listProducts.length; i++) {
       inline_btns.push([
         {
-          text: `⬜️ ${listProducts[i].title} - ${listProducts[i].price} fUAH`,
+          text: `⬜️ ${listProducts[i].title} - ${listProducts[i].price} UAH`,
           callback_data: `basketItem-${listProducts[i].id} `,
         },
       ]);

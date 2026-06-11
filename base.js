@@ -1,5 +1,5 @@
 let base = {
-  token: "6477965216:AAFBVcvN0NkL-PiBKrwp4x6_obv86J26p8s", // 1 server: 1 bot
+  token: "6707935589:AAEQ-xEBOIQ_rwwzgpgwhV7ttD2g8AmIz0w", // 1 server: 1 bot
   id: 6187531089,
   counterProducts: 0,
 
